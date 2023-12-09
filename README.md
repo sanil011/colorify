@@ -1,1 +1,2 @@
-# colorify
+# Sanil colorify library
+
